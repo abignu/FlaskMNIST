@@ -5,6 +5,5 @@ keras==2.1.3
 tensorflow==1.4
 numpy
 h5py
-pillow
-scipy
+pillow==2.1.6
 
